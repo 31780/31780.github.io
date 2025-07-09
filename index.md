@@ -7,6 +7,14 @@ title: Home
 
 Welcome to my collection of public repositories.
 
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=31780&show_icons=true&theme=dark&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=31780&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=31780&layout=compact&theme=dark)
+
 ## Repositories
 
 ### [disk_usage](https://github.com/31780/disk_usage)
