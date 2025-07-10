@@ -17,6 +17,9 @@ Welcome to my collection of public repositories.
 
 ## Repositories
 
+### [agent-classroom](https://github.com/31780/agent-classroom)
+Open-source project where you learn to build autonomous LLM
+
 ### [disk_usage](https://github.com/31780/disk_usage)
 Python Script: Disk Usage Monitor and Alert
 
