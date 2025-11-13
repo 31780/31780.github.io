@@ -61,20 +61,24 @@ Welcome to my GitHub portfolio showcasing my development activity and technical 
 ![Automation](https://img.shields.io/badge/Automation-00C853?style=for-the-badge)
 ![API Development](https://img.shields.io/badge/API_Development-009688?style=for-the-badge)
 
-## ⏰ Time-Based Activity
+## ⏰ Time-Based Activity & Productivity
 
-### Coding Activity (WakaTime)
+### 📈 Weekly Coding Stats (WakaTime)
 <!--START_SECTION:waka-->
-<!-- If you use WakaTime, add your stats here -->
-<!-- Visit https://wakatime.com to set up time tracking -->
 <!--END_SECTION:waka-->
 
+### 📊 Language & Editor Time Distribution
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=31780&theme=dark&layout=compact)
 
-### Activity Timeline
+### 📅 Activity Timeline
 ![Recent Activity](https://github-readme-activity-graph.vercel.app/graph?username=31780&theme=github-dark&area=true&hide_border=true)
 
-### Development Patterns
+### 🔍 Development Insights
+- **Automatic Time Tracking**: All coding activity is tracked via WakaTime across multiple projects and environments
+- **Privacy-First**: Shows languages, tools, and time spent without revealing project names or code
+- **Real-Time Updates**: Statistics update daily to reflect current development focus
+- **Comprehensive Coverage**: Includes activity from public repositories, private projects, and local development
+
 *Note: These metrics include activity from both public and private repositories, showing consistent development work without revealing proprietary code or project details.*
 
 ## Repositories
